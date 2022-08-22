@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nash Hale's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/nashale/A3ProgrammingPortfolio2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
