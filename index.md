@@ -8,6 +8,6 @@ OOP graphical calculator using processing
 
 ![Calculator](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/calc.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/calculator)
 
 ## Programming Semester 2 Projects:
