@@ -6,7 +6,7 @@
 
 OOP graphical calculator using processing
 
-![Calculator](calc.png)
+![Calculator]([calc.png](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/calc.png?raw=true))
 
 [Source Code]()
 
