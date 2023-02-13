@@ -10,4 +10,8 @@ OOP graphical calculator using processing
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/calculator)
 
+### SpaceGame Project
+
 ## Programming Semester 2 Projects:
+
+### Shape Tester
