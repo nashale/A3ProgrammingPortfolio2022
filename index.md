@@ -14,7 +14,7 @@ OOP graphical calculator using processing
 
 User interactive spacegame using processing
 
-![Space Game]()
+![Space Game]([images/calc.png](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/spaceGame.png?raw=true))
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/spacegame)
 
