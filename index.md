@@ -42,4 +42,4 @@ Running Text Based Adventure
 
 ![running C++ Text Based Adventure](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/runningTBA.png)
 
-[Source Code](https://gihub.com/nashale/A3ProgrammingPortfolio2022/src/C-Text-Based-Adventure-main/textBasedAdventure/src)
+[Source Code][(https://gihub.com/nashale/A3ProgrammingPortfolio2022/src/C-Text-Based-Adventure-main/textBasedAdventure/src/main)]
