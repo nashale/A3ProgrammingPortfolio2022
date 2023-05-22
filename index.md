@@ -35,3 +35,11 @@ Taking in the user's name and converting it using traditional Pig Latin
 ![Pig Latin](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/pigLatin.png)
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/pigLatin)
+
+### (Best Work) C++ Text Based Adventure Game!
+
+Running Text Based Adventure
+
+![running C++ Text Based Adventure]()
+
+[Source Code](https://gihub.com/nashale/A3ProgrammingPortfolio2022/src/C-Text-Based-Adventure-main/textBasedAdventure/src)
