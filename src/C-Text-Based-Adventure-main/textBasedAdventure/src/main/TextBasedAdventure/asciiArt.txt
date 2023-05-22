@@ -1,0 +1,240 @@
+       (%##%#&)                                             
+      #/      #%                                            
+     #%       (%%####%#&%%%#%##%%%#%%%%%%%%#%%%%#%%%%#%&    
+     (%       #%    %%/&                       .%##%#       
+      #%     (#&                               */%##%       
+        #*#(#%                                 %%%%(%       
+
+
+cout << "\033[0;93m" << asciiArt[0] << endl;
+cout << "\033[0;93m" << asciiArt[1] << endl;
+cout << "\033[0;93m" << asciiArt[2] << endl;
+cout << "\033[0;93m" << asciiArt[3] << endl;
+cout << "\033[0;93m" << asciiArt[4] << endl;
+cout << "\033[0;93m" << asciiArt[5] << endl;
+
+                                                                                                                                                  
+       (@b                                                   
+         @*@@                                               
+          @@  @@@                                           
+            @@   @@@                                        
+              @@    @@@                                     
+                @@     %@                                   
+                  @@      @@                                
+                     @@     @@#                             
+                       @@      @@         @@@@              
+                         #@@     @@%     @@  @              
+                            @@      @@@@  @@                
+                              %@@ @@    @@                  
+                                @@   @@ &@                  
+                               @   @@@%    @@               
+                           @@   @@     @@    @@             
+                            @@@@         @@    %@           
+                                            @@   @@@        
+                                               @@   @@      
+                                                ,@@@@       
+                                                            
+                                                            
+
+cout << "\090[COLOUR_CODEm" << asciiArt[11] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[12] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[13] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[14] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[15] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[16] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[17] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[18] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[19] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[20] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[21] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[22] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[23] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[24] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[25] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[26] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[27] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[28] << endl;
+cout << "\090[COLOUR_CODEm" << asciiArt[29] << endl;
+
+                            ## ##                           
+                        ##         ##                       
+                    ##                 ##                   
+                   # ###             ### #                  
+         #         #     ###     ###     #         #        
+          #        #          #          #        #         
+          #        #          #          #       #          
+           #       #          #          #      #          
+           #        ###       #       ###       #          
+            #           ###   #   ###           #           
+             #               ###               #            
+             #      #                   #      #            
+              #               #               #             
+              #      #        #        #      #             
+               #      #               #      #              
+                #     #       #       #     #               
+                #      #      #      #      #               
+                #############################               
+                #                           #               
+            #                                   #           
+            #####################################           
+
+cout << "\034[COLOUR_CODEm" << asciiArt[57]
+cout << "\034[COLOUR_CODEm" << asciiArt[58]
+cout << "\034[COLOUR_CODEm" << asciiArt[59]
+cout << "\034[COLOUR_CODEm" << asciiArt[60]
+cout << "\034[COLOUR_CODEm" << asciiArt[61]
+cout << "\034[COLOUR_CODEm" << asciiArt[62]
+cout << "\034[COLOUR_CODEm" << asciiArt[63]
+cout << "\034[COLOUR_CODEm" << asciiArt[64]
+cout << "\034[COLOUR_CODEm" << asciiArt[65]
+cout << "\034[COLOUR_CODEm" << asciiArt[66]
+cout << "\034[COLOUR_CODEm" << asciiArt[67]
+cout << "\034[COLOUR_CODEm" << asciiArt[68]
+cout << "\034[COLOUR_CODEm" << asciiArt[69]
+cout << "\034[COLOUR_CODEm" << asciiArt[70]
+cout << "\034[COLOUR_CODEm" << asciiArt[72]
+cout << "\034[COLOUR_CODEm" << asciiArt[72]
+cout << "\034[COLOUR_CODEm" << asciiArt[73]
+cout << "\034[COLOUR_CODEm" << asciiArt[74]
+cout << "\034[COLOUR_CODEm" << asciiArt[75]
+cout << "\034[COLOUR_CODEm" << asciiArt[76]
+cout << "\034[COLOUR_CODEm" << asciiArt[77]
+cout << "\034[COLOUR_CODEm" << asciiArt[78]
+
+
+
+
+
+                                                                      
+                             
+                                     @& @                             
+                                @@@ @@  @@                            
+                                @  @@    @                            
+                            @@ @@         @     @@                    
+                      @@     @ @    @@@   @@ @@ @@    @@      @@@@    
+                       @@ @@@@@   @@@ @    @@   @ @@(.@@@@@   @@      
+                        @@     @&@ @@ @@  @@               @@         
+               @@@@@@@@@@@@ @@@ @      @@@@ @@@@@@@@    @@@@@@@(      
+                 @@          @@                @@          *@@                 
+            @@@@@    *@@@@%                  @@       @@.             
+    ,@@@            #@@@@@                    @@.   @@@               
+           @@@@@%         @@@@               @@@@       @@@           
+                    @@      @@             @ @@         @@*           
+                 @@@ @@@@   @      @@ @@   @*        @@@@, @@         
+                       @@  @/@@  @@ @@@ @@  @         @@              
+                       @  @@ @@@           @@@   @@@@  @@             
+                      @                           @      @            
+                     @@           @@@@   @@@      &@                               
+                    @ @@ @@  @@      @  @      @@   @                 
+                   @@    @ @@                    .@@@@                
+                        @@                          @@  
+
+cout << "\031[COLOUR_CODEm" << asciiArt[109]
+cout << "\031[COLOUR_CODEm" << asciiArt[110]
+cout << "\031[COLOUR_CODEm" << asciiArt[111]
+cout << "\031[COLOUR_CODEm" << asciiArt[112]
+cout << "\031[COLOUR_CODEm" << asciiArt[113]
+cout << "\031[COLOUR_CODEm" << asciiArt[114]
+cout << "\031[COLOUR_CODEm" << asciiArt[115]
+cout << "\031[COLOUR_CODEm" << asciiArt[116]
+cout << "\031[COLOUR_CODEm" << asciiArt[117]
+cout << "\031[COLOUR_CODEm" << asciiArt[118]
+cout << "\031[COLOUR_CODEm" << asciiArt[119]
+cout << "\031[COLOUR_CODEm" << asciiArt[120]
+cout << "\031[COLOUR_CODEm" << asciiArt[121]
+cout << "\031[COLOUR_CODEm" << asciiArt[122]
+cout << "\031[COLOUR_CODEm" << asciiArt[123]
+cout << "\031[COLOUR_CODEm" << asciiArt[124]
+cout << "\031[COLOUR_CODEm" << asciiArt[125]
+cout << "\031[COLOUR_CODEm" << asciiArt[126]
+cout << "\031[COLOUR_CODEm" << asciiArt[127]
+cout << "\031[COLOUR_CODEm" << asciiArt[128]
+cout << "\031[COLOUR_CODEm" << asciiArt[129]
+
+
+             @/                      @@@@@@                                     
+           @@@@@@            @@@@@@@@@@@@@@@@@@@@/                              
+           @@@ @@@@@@@%@@@@@@@                  @@@@                            
+            @@/     @@@@@                          @@@                          
+            @@@                                     @@@@@@@@                
+               @@@                                          @@@                     
+                 @@@@@@@@                    @@@@@@@@@@      @@@                
+                 @@@  @@@@@@@@@@@@@@@@@@@@@@@@#       @@@,   @@@                
+                 @@@  @@@                              @@@   @@@                
+                 @@@  @@@                               @@&  @@@                
+                 @@@@@@@@     @@@@             @@@@     @@@@@@@@                
+                 @@@@ @@@                               @@& @@@@                
+                 @@@  @@@                               @@&  @@@                
+                  @@@ @@@          @@@    %@@@          @@& @@@                 
+                    @@@@@      @@@@@@@@@@@@@@@@@@@      @@@@@                   
+                    @@@@@@   @@@@      @@@      @@@#   @@@@@@                   
+                    @@@@@@@@@@@      %@@@@@       @@@@@@@@@@                    
+                      @@@         @@@@@   @@@@@         @@@                     
+                        @@@@@@@@@@@          @@@@@@@@@@@@                       
+                              @@@@@@@@     @@@@@@@                              
+                          @@@@@@@@@ @@@@@@@@/ @@@@@@@@@                                     
+                @@@@   @@@  .@@@@@@@ @@@@@@@(@@@@@@@   @@@   @@@@               
+              @@@      @@@  @@@    @@@@@@@@@@@   (@@@  @@@      @@@                  
+
+cout << "\037[COLOUR_CODEm" << asciiArt[154]
+cout << "\037[COLOUR_CODEm" << asciiArt[155]
+cout << "\037[COLOUR_CODEm" << asciiArt[156]
+cout << "\037[COLOUR_CODEm" << asciiArt[157]
+cout << "\037[COLOUR_CODEm" << asciiArt[158]
+cout << "\037[COLOUR_CODEm" << asciiArt[159]
+cout << "\037[COLOUR_CODEm" << asciiArt[160]
+cout << "\037[COLOUR_CODEm" << asciiArt[161]
+cout << "\037[COLOUR_CODEm" << asciiArt[162]
+cout << "\037[COLOUR_CODEm" << asciiArt[163]
+cout << "\037[COLOUR_CODEm" << asciiArt[164]
+cout << "\037[COLOUR_CODEm" << asciiArt[165]
+cout << "\037[COLOUR_CODEm" << asciiArt[166]
+cout << "\037[COLOUR_CODEm" << asciiArt[167]
+cout << "\037[COLOUR_CODEm" << asciiArt[168]
+cout << "\037[COLOUR_CODEm" << asciiArt[169]
+cout << "\037[COLOUR_CODEm" << asciiArt[170]
+cout << "\037[COLOUR_CODEm" << asciiArt[171]
+cout << "\037[COLOUR_CODEm" << asciiArt[172]
+cout << "\037[COLOUR_CODEm" << asciiArt[173]
+cout << "\037[COLOUR_CODEm" << asciiArt[174]
+cout << "\037[COLOUR_CODEm" << asciiArt[175]
+
+
+                                           @@@
+                                           @ ./@@ 
+                                           @ . . @@
+                                           @ . .  .*@@ 
+                               @@@@@@@@@@@@@@. .  .   @@
+                               @@#@# .    .  @@*  .  . .*@@    
+                               @@   @@    .  . ,@@.  . .  .@@@@@@@@@@@@@
+                               @@    .#@% .  . .  &@*. .  .@@ 
+                               @@        @@         ,@@    @@                   
+                   .@@#         %@*        (@%         &@* @@                   
+                   .@  @@.        .@@         @@.. .  . .,@@@                   
+                   .@    /@#         %@/       .@                              
+                   .@       @@.        .@@     .@                              
+        %@@@@@@@@@@@@, . .  . /@%.        #@/   @
+        &@@@.  .    ..@& .  .    @@          @@.@
+        &&. (@#. .  .  .%@* .      *@@@@@@@@@@@@@
+        &&. .  @@.  .  . ..@@       &@
+        &&. .  . (@#         %@/    &@
+        #%.         @@          @@  &@ 
+cout << "\037[COLOUR_CODEm" << asciiArt[202]
+cout << "\037[COLOUR_CODEm" << asciiArt[203]
+cout << "\037[COLOUR_CODEm" << asciiArt[204]
+cout << "\037[COLOUR_CODEm" << asciiArt[205]
+cout << "\037[COLOUR_CODEm" << asciiArt[206]
+cout << "\037[COLOUR_CODEm" << asciiArt[207]
+cout << "\037[COLOUR_CODEm" << asciiArt[208]
+cout << "\037[COLOUR_CODEm" << asciiArt[209]
+cout << "\037[COLOUR_CODEm" << asciiArt[210]
+cout << "\037[COLOUR_CODEm" << asciiArt[211]
+cout << "\037[COLOUR_CODEm" << asciiArt[212]
+cout << "\037[COLOUR_CODEm" << asciiArt[213]
+cout << "\037[COLOUR_CODEm" << asciiArt[214]
+cout << "\037[COLOUR_CODEm" << asciiArt[215]
+cout << "\037[COLOUR_CODEm" << asciiArt[216]
+cout << "\037[COLOUR_CODEm" << asciiArt[217]
+cout << "\037[COLOUR_CODEm" << asciiArt[218]
+cout << "\037[COLOUR_CODEm" << asciiArt[219]
+cout << "\037[COLOUR_CODEm" << asciiArt[220]                                                                    
