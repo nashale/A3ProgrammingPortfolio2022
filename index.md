@@ -40,6 +40,6 @@ Taking in the user's name and converting it using traditional Pig Latin
 
 Running Text Based Adventure
 
-![running C++ Text Based Adventure]()
+![running C++ Text Based Adventure](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/runningTBA.png)
 
-[Source Code](https://gihub.com/nashale/A3ProgrammingPortfolio2022/src/C-Text-Based-Adventure-main/textBasedAdventure/src)
+[Source Code]([https://gihub.com/nashale/A3ProgrammingPortfolio2022/src/C-Text-Based-Adventure-main/textBasedAdventure/src](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/C-Text-Based-Adventure-main/textBasedAdventure/src)
