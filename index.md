@@ -14,7 +14,7 @@ OOP graphical calculator using processing
 
 User interactive spacegame using processing
 
-![Space Game](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/spaceGame.png)
+![Space Game](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/spaceGame.png?raw=true)
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/spacegame)
 
@@ -32,7 +32,7 @@ Creating shapes by giving inputs such as radius and width
 
 Taking in the user's name and converting it using traditional Pig Latin
 
-![Pig Latin](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/pigLatin.png)
+![Pig Latin](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/pigLatin.png?raw=true)
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/pigLatin)
 
@@ -48,6 +48,6 @@ Giving the user a question, and taking in the response
 
 Running Text Based Adventure
 
-![running C++ Text Based Adventure](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/runningTBA.png)
+![running C++ Text Based Adventure](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/runningTBA.png?raw=true)
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/C-Text-Based-Adventure-main/textBasedAdventure/src/main)
