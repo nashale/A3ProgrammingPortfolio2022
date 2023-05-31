@@ -36,6 +36,14 @@ Taking in the user's name and converting it using traditional Pig Latin
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/pigLatin)
 
+### Question Generator
+
+Giving the user a question, and taking in the response
+
+![Question Generator](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/images/questionGenerator.png?raw=true)
+
+[Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/blob/gh-pages/src/ioTesting/main.cpp)
+
 ### (Best Work) C++ Text Based Adventure Game!
 
 Running Text Based Adventure
