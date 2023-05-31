@@ -10,7 +10,7 @@ OOP graphical calculator using processing
 
 [Source Code](https://github.com/nashale/A3ProgrammingPortfolio2022/tree/gh-pages/src/calculator)
 
-### SpaceGame Project
+### SpaceGame Project 
 
 User interactive spacegame using processing
 
